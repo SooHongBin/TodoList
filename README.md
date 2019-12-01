@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TodoList
+본 프로젝트는 오늘의 할 일을 적어놓기 위한 TodoList 입니다.
+
+This project was bootstrapped with [Create React App]
+(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
